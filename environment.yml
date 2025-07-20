@@ -1,0 +1,23 @@
+name: ercot_env
+channels:
+  - conda-forge
+  - bashtage # for arch package
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - statsmodels
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - arch
+  - seaborn
+  - dash
+  - python-dotenv
+  - authlib
+  - flask
+  - flask-caching
+  - pip
+  # - pip:
+  #   - gunicorn # required for production
+  
