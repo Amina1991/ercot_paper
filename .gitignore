@@ -1,1 +1,6 @@
 credentials*.json
+
+# Large files - will add via LFS later
+datasets/FM_combined.csv
+other processed files not needed/fuel_mix_combined_2011_2015.csv
+other processed files not needed/fuel_mix_combined_2016_2025.csv
